@@ -110,4 +110,5 @@ const styles = StyleSheet.create({
     marginTop:20,
     colour:"#67213c"
   }
+  
 });
