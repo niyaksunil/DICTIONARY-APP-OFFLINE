@@ -104,11 +104,12 @@ const styles = StyleSheet.create({
     marginTop:50,
     colour:"#67213c"
   },
+  
   typeText:{
     fontSize:20,
     textAlign : "left",
     marginTop:20,
     colour:"#67213c"
   }
-  
+
 });
